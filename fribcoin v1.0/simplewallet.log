@@ -1,0 +1,48 @@
+2018-Jan-12 19:20:13.570923 INFO [simplewallet] fribcoin wallet v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:20:28.649795 ERROR [simplewallet] Error: failed to load wallet: wallet file 'kaka.wallet' is not found
+2018-Jan-12 19:20:28.649795 ERROR [simplewallet] Failed to initialize wallet
+2018-Jan-12 19:20:30.681170 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:29102).
+2018-Jan-12 19:20:31.712472 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:29102).
+2018-Jan-12 19:31:22.106277 INFO [simplewallet] fribcoin wallet v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:31:22.121904 ERROR [simplewallet] Error: failed to load wallet: wallet file 'kaka.wallet' is not found
+2018-Jan-12 19:31:22.121904 ERROR [simplewallet] Failed to initialize wallet
+2018-Jan-12 19:31:24.153259 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:29102).
+2018-Jan-12 19:31:25.168952 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:29102).
+2018-Jan-12 19:31:37.810181 INFO [simplewallet] fribcoin wallet v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:31:43.872987 ERROR [simplewallet] Error: failed to load wallet: wallet file 'kaka.wallet' is not found
+2018-Jan-12 19:31:43.888607 ERROR [simplewallet] Failed to initialize wallet
+2018-Jan-12 19:31:45.904333 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:29102).
+2018-Jan-12 19:31:46.920016 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:29102).
+2018-Jan-12 19:31:48.857627 INFO [simplewallet] fribcoin wallet v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:31:57.576811 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:29102).
+2018-Jan-12 19:31:59.655035 INFO [simplewallet] Generated new wallet: cacahkemj2Mdtahdt2DiZaTJEadTxJhqUKELRGhyRW5DFSJzcNpmEYPbH4UwXKrRzMC3s8RpJ5y72Csf8QFzpiAD9N9EvThGsd
+2018-Jan-12 19:31:59.655035 INFO [simplewallet] view key: 29db7213c3e9792fb2b89414334ab7ed4f49a2989f41a5a1dcce51789c8df60f
+2018-Jan-12 19:31:59.670642 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2018-Jan-12 19:32:10.483700 INFO [simplewallet] available balance: 0.00000000, locked amount: 0.00000000
+2018-Jan-12 19:32:13.265063 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2018-Jan-12 19:32:31.812883 INFO [simplewallet] No transfers
+2018-Jan-12 19:32:52.938908 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:29102).
+2018-Dec-12 19:29:24.707998 INFO [simplewallet] fribcoin wallet v1.1.1.1(0.1-g50aa61ce7)
+2018-Dec-12 19:31:27.711487 INFO [simplewallet] fribcoin wallet v1.1.1.1(0.1-g50aa61ce7)

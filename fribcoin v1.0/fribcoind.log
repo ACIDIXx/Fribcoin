@@ -1,0 +1,192 @@
+2018-Jan-12 19:19:26.928009 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:19:26.943611 INFO [daemon] Module folder: C:\Users\Acidix\Desktop\fribcoinv2kimarch\fribcoin\fribcoind.exe
+2018-Jan-12 19:19:26.959236 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:19:26.974862 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:19:26.974862 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:19:26.974862 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:19:28.006165 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:19:28.006165 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:19:28.006165 INFO [daemon] Initializing core...
+2018-Jan-12 19:19:28.021789 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:19:28.084292 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:19:28.099918 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Jan-12 19:19:28.099918 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:19:28.099918 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:19:28.115543 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:19:28.115543 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:19:40.553661 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:19:40.553661 INFO [daemon] Module folder: C:\Users\Acidix\Desktop\fribcoinv2kimarch\fribcoin\fribcoind.exe
+2018-Jan-12 19:19:40.569287 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:19:40.584913 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:19:40.584913 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:19:40.584913 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:19:41.616258 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:19:41.616258 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:19:41.616258 INFO [daemon] Initializing core...
+2018-Jan-12 19:19:41.631838 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:19:41.678716 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:19:41.694342 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Jan-12 19:19:41.694342 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:19:41.694342 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:19:41.694342 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:19:41.694342 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:21:07.645958 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:21:07.645958 INFO [daemon] Module folder: C:\Users\Acidix\Desktop\fribcoinv2kimarch\fribcoin\fribcoind.exe
+2018-Jan-12 19:21:07.661585 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:21:07.661585 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:21:07.661585 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:21:07.677209 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:21:08.677281 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:21:08.692885 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:21:08.692885 INFO [daemon] Initializing core...
+2018-Jan-12 19:21:08.692885 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:21:08.755388 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:21:08.755388 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Jan-12 19:21:08.755388 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:21:08.771013 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:21:08.771013 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:21:08.771013 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:22:32.900187 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:22:32.900187 INFO [daemon] Module folder: fribcoind.exe
+2018-Jan-12 19:22:32.900187 INFO [daemon] Starting in testnet mode!
+2018-Jan-12 19:22:32.915813 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:22:32.915813 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:22:32.915813 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:22:32.931438 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:22:33.931512 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:22:33.947113 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:22:33.947113 INFO [daemon] Initializing core...
+2018-Jan-12 19:22:33.962744 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:22:34.009617 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:22:34.025242 INFO [Blockchain] Block <5c6614f5a0d4eeda269bcf364228321e79ecee1adfa0b63e474baffd7ba557c4> has invalid miner transaction
+2018-Jan-12 19:22:34.025242 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:22:34.025242 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:22:34.040868 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:22:34.040868 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:24:19.396534 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:24:19.396534 INFO [daemon] Module folder: fribcoind.exe
+2018-Jan-12 19:24:19.396534 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:24:19.412159 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:24:19.412159 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:24:19.412159 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:24:20.450219 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:24:20.450219 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:24:20.450219 INFO [daemon] Initializing core...
+2018-Jan-12 19:24:20.450219 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:24:20.512721 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:24:20.512721 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Jan-12 19:24:20.512721 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:24:20.528345 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:24:20.528345 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:24:20.528345 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:24:32.451777 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:24:32.451777 INFO [daemon] Module folder: fribcoind.exe
+2018-Jan-12 19:24:32.467403 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:24:32.467403 INFO [node_server] Binding on 192.168.1.26:27075
+2018-Jan-12 19:24:32.483028 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:24:32.483028 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=10049, L’adresse demandée n’est pas valide dans son contexte.
+
+2018-Jan-12 19:27:10.642523 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:27:10.658151 INFO [daemon] Module folder: fribcoind.exe
+2018-Jan-12 19:27:10.658151 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:27:10.673776 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:27:10.673776 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:27:10.673776 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:27:11.689475 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:27:11.705076 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:27:11.705076 INFO [daemon] Initializing core...
+2018-Jan-12 19:27:11.705076 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:27:11.767580 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:27:11.767580 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Jan-12 19:27:11.783205 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:27:11.783205 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:27:11.783205 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:27:11.783205 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:27:23.533789 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:27:23.533789 INFO [daemon] Module folder: fribcoind.exe
+2018-Jan-12 19:27:23.533789 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:27:23.549414 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:27:23.549414 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:27:23.549414 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:27:24.565113 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:27:24.580722 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:27:24.580722 INFO [daemon] Initializing core...
+2018-Jan-12 19:27:24.580722 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:27:24.643219 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:27:24.643219 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Jan-12 19:27:24.658844 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:27:24.658844 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:27:24.658844 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:27:24.674470 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:27:26.315177 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:27:26.315177 INFO [daemon] Module folder: fribcoind.exe
+2018-Jan-12 19:27:26.315177 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:27:26.330805 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:27:26.330805 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:27:26.346429 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:27:27.346501 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:27:27.362102 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:27:27.362102 INFO [daemon] Initializing core...
+2018-Jan-12 19:27:27.362102 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:27:27.424607 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:27:27.424607 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Jan-12 19:27:27.440232 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:27:27.440232 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:27:27.440232 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:27:27.440232 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:28:59.785127 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:28:59.790204 INFO [daemon] Module folder: fribcoind.exe
+2018-Jan-12 19:28:59.795774 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:28:59.802427 INFO [node_server] Binding on 192.168.1.26:27075
+2018-Jan-12 19:28:59.806995 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:28:59.815118 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=10049, L’adresse demandée n’est pas valide dans son contexte.
+
+2018-Jan-12 19:29:30.651045 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:29:30.651045 INFO [daemon] Module folder: fribcoind.exe
+2018-Jan-12 19:29:30.651045 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:29:30.666671 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:29:30.666671 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:29:30.666671 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:29:31.697970 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:29:31.697970 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:29:31.697970 INFO [daemon] Initializing core...
+2018-Jan-12 19:29:31.697970 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:29:31.760474 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:29:31.760474 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Jan-12 19:29:31.776101 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:29:31.776101 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:29:31.776101 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:29:31.776101 INFO [miner] Mining has been stopped, 0 finished
+2018-Jan-12 19:29:54.511602 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Jan-12 19:29:54.511602 INFO [daemon] Module folder: fribcoind.exe
+2018-Jan-12 19:29:54.527228 INFO [daemon] Initializing p2p server...
+2018-Jan-12 19:29:54.527228 TRACE [node_server] Added seed node: 78.228.161.251:27075 (fribcoin.freeboxos.fr)
+2018-Jan-12 19:29:54.542856 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Jan-12 19:29:54.542856 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Jan-12 19:29:54.542856 INFO [node_server] Attempting to add IGD port mapping.
+2018-Jan-12 19:29:55.558553 ERROR [node_server] UPNP_AddPortMapping failed.
+2018-Jan-12 19:29:55.574154 INFO [daemon] P2p server initialized OK
+2018-Jan-12 19:29:55.574154 INFO [daemon] Initializing core...
+2018-Jan-12 19:29:55.574154 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Jan-12 19:29:55.621034 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Jan-12 19:29:55.636658 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Jan-12 19:29:55.636658 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Jan-12 19:29:55.636658 ERROR [core] Failed to initialize blockchain storage
+2018-Jan-12 19:29:55.652284 ERROR [daemon] Failed to initialize core
+2018-Jan-12 19:29:55.652284 INFO [miner] Mining has been stopped, 0 finished
+2018-Dec-12 19:31:21.539345 INFO [daemon] fribcoin v1.1.1.1(0.1-g50aa61ce7)
+2018-Dec-12 19:31:21.539345 INFO [daemon] Module folder: C:\Users\Acidix\Desktop\fribcoinv2kimarch\fribcoin\fribcoind.exe
+2018-Dec-12 19:31:21.554925 INFO [daemon] Initializing p2p server...
+2018-Dec-12 19:31:21.586199 INFO [node_server] Binding on 0.0.0.0:27075
+2018-Dec-12 19:31:21.586199 INFO [node_server] Net service binded on 0.0.0.0:27075
+2018-Dec-12 19:31:21.586199 INFO [node_server] Attempting to add IGD port mapping.
+2018-Dec-12 19:31:22.617479 INFO [node_server] Added IGD port mapping.
+2018-Dec-12 19:31:22.633104 INFO [daemon] P2p server initialized OK
+2018-Dec-12 19:31:22.633104 INFO [daemon] Initializing core...
+2018-Dec-12 19:31:22.664378 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Dec-12 19:31:22.726859 ERROR [Blockchain] Coinbase transaction doesn't use full amount of block reward: spent 0.00095367, block reward is 50.00000000
+2018-Dec-12 19:31:22.726859 INFO [Blockchain] Block <76a78bf9099a09aaec01f98b23346f9323818ec82cd4d2c0d339575f51ea69a1> has invalid miner transaction
+2018-Dec-12 19:31:22.726859 ERROR [Blockchain] Failed to add genesis block to blockchain
+2018-Dec-12 19:31:22.742485 ERROR [core] Failed to initialize blockchain storage
+2018-Dec-12 19:31:22.742485 ERROR [daemon] Failed to initialize core
+2018-Dec-12 19:31:22.742485 INFO [miner] Mining has been stopped, 0 finished

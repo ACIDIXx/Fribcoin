@@ -1,0 +1,17 @@
+Fribcoind.exe :
+ ce logiciel permet de réaliser un "node". le but de toute cryptomonnaie c'est d'en avoir le plus possible. En gros, c'est un serveur 
+peertopeer qui va annoncer à tout le réseau fribcoin ; 
+
+- les transactions
+- Quic'estki à le plus gros hashrate/sec
+- quic'est ki est connecté à se node etc ..
+
+et ton srv va se synchroniser avec le mien (normalement)
+
+Miner.exe :
+Miner simple basique pour les faibles (tu peux miner avec tout les outils que je te file de toutes façon) perso je mine
+avec le fribcoind.exe
+
+Walletd.exe : utilise pour plustard avec le wallet graphique 
+
+Simplewallet.exe : le graal, commence par miner avec ça peut être interressant pour tester
